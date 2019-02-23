@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "lawchange",
+    "packageName": "com.lawchange",
+    "packageFolder": "com/lawchange",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "ODI3N2FmMzU3OWM0OTE2OTJlZmZhM2ZiM2NkOGNjMzIyNmU5MjdlOTdmYmM3OGVkZDNlZDBmZWU4ZDY0ZDk1Y2I3YmU5YWYxMWE3MmMwYjVlMDA5ZGNjMjhkOWYxY2IzZjU0ZTY3OTgyZjVkYjZkMmViNmYzMjU0ZWRhNGRkMTc=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "tadeubonatti",
+  "repository-name": "lawchange"
+}
